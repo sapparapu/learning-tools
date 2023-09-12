@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <conio.h>
+void main
+clrscr
+{
+int a,b,c;
+c=a+b;
+printf("Enter the values of a&b");
+scanf("&a","&b");
+printf("print the value of c",&c);
+getch();
+}
+
+
