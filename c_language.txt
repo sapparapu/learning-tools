@@ -3,7 +3,7 @@
 void main
 clrscr
 {
-int a,b,c;
+int a=2,b=4,c;
 c=a+b;
 printf("Enter the values of a&b");
 scanf("&a","&b");
